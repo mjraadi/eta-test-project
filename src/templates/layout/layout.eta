@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <%~ includeFile('./head', {...it}) %>
+    <%~ it.body %>
+    <%~ includeFile('./footer') %>
+  </body>
+</html>

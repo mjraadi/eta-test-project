@@ -1,0 +1,6 @@
+<% layout('../layout/layout.eta') %>
+
+<div id="content">
+  <p><%= it.message %></p>
+  <p><%= it.message %></p>
+</div>
